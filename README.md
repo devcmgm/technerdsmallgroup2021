@@ -48,7 +48,9 @@ Starter Project Tasks - Coloring Highlands Kids Prayer Guide page 7
 <li>Intro to HTML/React Web Development</li>
 <ul>
 <li>https://www.w3schools.com/html/default.asp</li>
-<li>https://reactjs.org/ </li>
+<li>https://reactjs.org/</li>
+<li>https://aframe.io/</li>
+<li>https://github.com/ngokevin/aframe-react-boilerplate</li>
 <li>https://github.com/willb335/avatar-picker</li>
 <li>https://github.com/dilidili/react-drawing-board</li>
 <li>https://www.w3schools.com/react/default.asp</li>

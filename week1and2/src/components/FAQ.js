@@ -1,11 +1,27 @@
-import React from "react";
-import {bgBG} from "@material-ui/core/locale";
+import 'aframe';
+import 'aframe-particle-system-component';
+import {Entity, Scene} from 'aframe-react';
+import React from 'react';
 
-export default function FAQ() {
-
-    return(
-        <div className={bgBG}>
-            FAQ
-        </div>
-    );
+class VRScene extends React.Component {
+    render() {
+        return (
+            <Scene>
+                <Entity geometry={{primitive: 'box'}} material={{color: 'red'}} position={{x: 0, y: 0, z: -5}}/>
+                <Entity particle-system={{preset: 'snow'}}/>
+                <Entity light={{type: 'point'}}/>
+                <Entity gltf-model={{src: 'virtualcity.gltf'}}/>
+                <Entity text={{value: 'Hello, WebVR!'}}/>
+            </Scene>
+        );
+    }
 }
+
+function FAQ() {
+    return (<div>
+            <VRScene/>
+        </div>
+    )
+}
+
+export default FAQ;
