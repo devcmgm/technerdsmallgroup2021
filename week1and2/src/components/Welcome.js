@@ -3,9 +3,11 @@ import splash from "../splashimg.png"
 import Button from '@material-ui/core/Button';
 import { yellow } from '@material-ui/core/colors';
 import { createMuiTheme, ThemeProvider } from '@material-ui/core/styles';
-
+import { useHistory } from 'react-router-dom';
+import "../App.css";
 
 export default function Welcome() {
+    const history = useHistory();
     const theme = createMuiTheme({
         palette: {
             primary: yellow,
@@ -13,13 +15,11 @@ export default function Welcome() {
     });
 
     return(
-        <div>
+        <div className="Welcome">
            <div>
                <img alt="prayerguide" style={{ align: "center", width:"100%", height:"100%" }} src={splash}/>
-           </div>
-            <div>
                 <ThemeProvider theme={theme}>
-                <Button style={{ marginLeft: "100px"}}  onClick={() => alert("Ready to Begin")} variant="contained" color="primary" disableElevation>
+                <Button style={{ marginLeft: "20%"}}  onClick={() => history.push('/faq')} variant="contained" color="primary" disableElevation>
                     Ready To Play
                 </Button>
                 </ThemeProvider>

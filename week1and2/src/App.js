@@ -23,7 +23,7 @@ function App() {
         }
     }
 
-    return (<div className="App">
+    return (<div >
             <GlobalContext.Provider value={{user}}>
                     <Routes />
                 </GlobalContext.Provider>

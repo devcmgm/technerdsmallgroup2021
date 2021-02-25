@@ -2,6 +2,8 @@ import 'aframe';
 import 'aframe-particle-system-component';
 import {Entity, Scene} from 'aframe-react';
 import React from 'react';
+import Button from "@material-ui/core/Button";
+import {useHistory} from "react-router-dom";
 
 class VRScene extends React.Component {
     render() {
@@ -18,8 +20,12 @@ class VRScene extends React.Component {
 }
 
 function FAQ() {
+    const history = useHistory();
     return (<div>
             <VRScene/>
+            <Button style={{ marginLeft: "20%"}}  onClick={() => history.push('/')} variant="contained" color="primary" disableElevation>
+                Home
+            </Button>
         </div>
     )
 }
