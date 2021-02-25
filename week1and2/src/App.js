@@ -10,12 +10,6 @@ function App() {
         onLoad();
     }, []);
 
-const function App() {
-    const user = useState({})
-    useEffect(() => {
-        onLoad();
-    }, []);
-
     async function onLoad() {
         try {
             ;
