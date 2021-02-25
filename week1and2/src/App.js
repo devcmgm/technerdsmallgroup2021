@@ -1,7 +1,12 @@
+<<<<<<< HEAD
 import React, { useState, useEffect } from "react";
 import Routes from "./Routes";
 import { GlobalContext } from "./utils/GlobalContext";
 import "./App.css";
+=======
+import React from 'react'
+import './App.css'
+>>>>>>> 5e66ea68996327059bc60252d933b5feae0b88e6
 
 function App() {
     const user = useState({})

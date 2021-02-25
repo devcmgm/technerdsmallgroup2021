@@ -49,6 +49,8 @@ Starter Project Tasks - Coloring Highlands Kids Prayer Guide page 7
 <ul>
 <li>https://www.w3schools.com/html/default.asp</li>
 <li>https://reactjs.org/ </li>
+<li>https://github.com/willb335/avatar-picker</li>
+<li>https://github.com/dilidili/react-drawing-board</li>
 <li>https://www.w3schools.com/react/default.asp</li>
 <li>https://www.learnstorybook.com/intro-to-storybook/react/en/get-started/</li>
 <li>https://www.figma.com/</li>
