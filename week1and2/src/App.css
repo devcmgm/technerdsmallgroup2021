@@ -1,6 +1,17 @@
-.flower {
+.splashScreen {
     display: flex;
     justify-content: center;
+}
+.App {
+    display: flex;
+    margin: 150px;
+    justify-content: center;
+}
+
+body, html {
+    background-image: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full page/img(11).jpg");
+    height: 100%;
+    margin: 0;
 }
 
 .heading {

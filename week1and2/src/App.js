@@ -1,8 +1,14 @@
+
 import React, { useState, useEffect } from "react";
 import Routes from "./Routes";
 import { GlobalContext } from "./utils/GlobalContext";
 import "./App.css";
 
+function App() {
+    const user = useState({})
+    useEffect(() => {
+        onLoad();
+    }, []);
 
 const function App() {
     const user = useState({})
