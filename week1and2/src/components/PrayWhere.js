@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default class Flower extends React.Component {
+export default class PrayWhere extends React.Component {
     render () {
         return (
             // this is the breakdown for the flower image including all paths
