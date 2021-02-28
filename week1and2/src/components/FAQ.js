@@ -1,6 +1,7 @@
 import 'aframe';
 import 'aframe-particle-system-component';
-import 'babel-polyfill';
+import "core-js/stable";
+import "regenerator-runtime/runtime";
 import {Entity, Scene} from 'aframe-react';
 import React from 'react';
 
@@ -28,8 +29,8 @@ class VRScene extends React.Component {
             <div>
               <Scene>
         <a-assets>
-          <img id="groundTexture" src="https://cdn.aframe.io/a-painter/images/floor.jpg"/>
-          <img id="skyTexture" src="https://cdn.aframe.io/a-painter/images/sky.jpg"/>
+          <img alt="gorund" id="groundTexture" src="https://cdn.aframe.io/a-painter/images/floor.jpg"/>
+          <img alt="sky" id="skyTexture" src="https://cdn.aframe.io/a-painter/images/sky.jpg"/>
         </a-assets>
 
         <Entity primitive="a-plane" src="#groundTexture" rotation="-90 0 0" height="100" width="100"/>
