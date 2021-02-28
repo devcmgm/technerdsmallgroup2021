@@ -20,8 +20,8 @@ export default function Welcome() {
                <img alt="prayerguide" style={{ align: "center", width:"75%", height:"75%" }} src={splash}/>
                <hr/>
                 <ThemeProvider theme={theme}>
-                <Button onClick={() => history.push('/faq')} variant="contained" color="primary" disableElevation>
-                    Ready To Play
+                <Button onClick={() => history.push('/avatar')} variant="contained" color="primary" disableElevation>
+                    Choose Avatar
                 </Button> -- <Button   onClick={() => history.push('/myhtml')} variant="contained" color="blue" disableElevation>
                     Aframe HTML Demo
                 </Button>
