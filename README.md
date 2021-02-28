@@ -50,7 +50,8 @@ Starter Project Tasks - Coloring Highlands Kids Prayer Guide page 7
 <li>https://www.w3schools.com/html/default.asp</li>
 <li>https://reactjs.org/</li>
 <li>https://aframe.io/</li>
-  <li>https://github.com/supermedium/aframe-react</li>
+<li>https://magic.reactjs.net/htmltojsx.htm</li>
+<li>https://github.com/supermedium/aframe-react</li>
 <li>https://github.com/ngokevin/aframe-react-boilerplate</li>
 <li>https://github.com/willb335/avatar-picker</li>
 <li>https://github.com/dilidili/react-drawing-board</li>

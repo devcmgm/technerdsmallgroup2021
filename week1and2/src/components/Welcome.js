@@ -22,6 +22,9 @@ export default function Welcome() {
                 <Button style={{ marginLeft: "20%"}}  onClick={() => history.push('/faq')} variant="contained" color="primary" disableElevation>
                     Ready To Play
                 </Button>
+                <Button style={{ marginLeft: "20%"}}  onClick={() => history.push('/myhtml')} variant="contained" color="primary" disableElevation>
+                    Aframe HTML Demo
+                </Button>
                 </ThemeProvider>
             </div>
         </div>
