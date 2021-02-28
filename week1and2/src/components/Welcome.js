@@ -17,12 +17,12 @@ export default function Welcome() {
     return(
         <div className="Welcome">
            <div>
-               <img alt="prayerguide" style={{ align: "center", width:"100%", height:"100%" }} src={splash}/>
+               <img alt="prayerguide" style={{ align: "center", width:"75%", height:"75%" }} src={splash}/>
+               <hr/>
                 <ThemeProvider theme={theme}>
-                <Button style={{ marginLeft: "20%"}}  onClick={() => history.push('/faq')} variant="contained" color="primary" disableElevation>
+                <Button onClick={() => history.push('/faq')} variant="contained" color="primary" disableElevation>
                     Ready To Play
-                </Button>
-                <Button style={{ marginLeft: "20%"}}  onClick={() => history.push('/myhtml')} variant="contained" color="primary" disableElevation>
+                </Button> -- <Button   onClick={() => history.push('/myhtml')} variant="contained" color="blue" disableElevation>
                     Aframe HTML Demo
                 </Button>
                 </ThemeProvider>
