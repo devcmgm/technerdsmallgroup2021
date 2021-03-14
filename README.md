@@ -2,8 +2,16 @@
 
 Church of the Highlands Small Group - Tech Nerds Kids Prayer Guide Project.
 
-<h1>Goal:</h1>
-  Using the Highlands Kid Prayer Guide, we will build a game with a website, phone app, AR and an interactive live event. We may also build IOT device to use in the game.
+<h1>Goals:</h1>
+  <UL>
+  <li>Talk about Tech News of Week on CNET and The Verge and more</li>
+  <OL>
+    <li><a href="https://www.cnet.com/news/">CNET News</a></li>
+    <li><a href="https://www.theverge.com/tech">The Verge</a></li>
+    <li><a href="https://www.google.com/search?q=google+tech+news&sxsrf=ALeKk02tZukUsJnyA68YbV4iPM1za1gY_Q:1615757427236&source=lnt&tbs=qdr:w&sa=X&ved=2ahUKEwie_Pi73bDvAhXKwFkKHdo6A64QpwV6BAgOECI&biw=1221&bih=712&dpr=2.5">An any other good Tech News Website</a></li>
+      </OL>
+   <li>Highlands Kid Prayer Guide, we will build a game with a website, phone app, AR and an interactive live event. We may also build IOT device to use in the game.</li>
+      </UL>
 NOTE: This will allow us to learn and share tech skills and ideas around a common goal.
 <hr/>
 <h1>Week #1 - Feb 21st</h1>
@@ -69,3 +77,15 @@ https://vercel.com/
 </ul>
 More TBD ...
 </ol>
+
+<h1>Week #3 - March 7th</h1>
+<h2>Did not Meet/h2>
+  <hr/>
+<h1>Week #4 - March 14th</h1>
+<h2>General Tech Talk Discussions/h2>
+<ul>
+  <li>Quantum Computing Discussion and watched short video --- 
+  <a href="https://www.youtube.com/watch?v=QF7QfE6qgTM">Quantum Computing Explained in 6 minutes</a></li>
+  <li>non-fungible tokens or NFTs -- <a href="https://www.youtube.com/watch?v=X_AugmQpwho&t=97s">What are NFTs Video</a></li>     
+  <li>DotNet Cross-platform -- <a href="https://dotnet.microsoft.com/">Getting Started</a>   </li>  
+  </ul>
