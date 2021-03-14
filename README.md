@@ -82,10 +82,10 @@ More TBD ...
 <h2>Did not Meet/h2>
   <hr/>
 <h1>Week #4 - March 14th</h1>
-<h2>General Tech Talk Discussions/h2>
+<h2>General Tech Talk Discussions</h2>
 <ul>
   <li>Quantum Computing Discussion and watched short video --- 
   <a href="https://www.youtube.com/watch?v=QF7QfE6qgTM">Quantum Computing Explained in 6 minutes</a></li>
   <li>non-fungible tokens or NFTs -- <a href="https://www.youtube.com/watch?v=X_AugmQpwho&t=97s">What are NFTs Video</a></li>     
-  <li>DotNet Cross-platform -- <a href="https://dotnet.microsoft.com/">Getting Started</a>   </li>  
+  <li>DotNet Cross-platform Development Linux, MacOS and Windows -- <a href="https://dotnet.microsoft.com/">Getting Started</a>   </li>  
   </ul>
