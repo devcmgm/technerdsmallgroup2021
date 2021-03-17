@@ -79,7 +79,7 @@ More TBD ...
 </ol>
 
 <h1>Week #3 - March 7th</h1>
-<h2>Did not Meet/h2>
+<h2>Did not Meet</h2>
   <hr/>
 <h1>Week #4 - March 14th</h1>
 <h2>General Tech Talk Discussions</h2>
