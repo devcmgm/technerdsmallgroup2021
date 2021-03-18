@@ -2,6 +2,9 @@
 
 Church of the Highlands Small Group - Tech Nerds Kids Prayer Guide Project.
 
+<a href="https://join.slack.com/t/christiantech-yaz7088/shared_invite/zt-muagqc9v-BkUUes9Yfson6~nNorQcew">Join our Slack Group</a>
+<hr/>
+
 <h1>Goals:</h1>
   <UL>
   <li>Talk about Tech News of Week on CNET and The Verge and more</li>
