@@ -1,1 +1,11 @@
 My ideas
+
+What can we do to make our game accessible to children with disabilities?
+- Motor disabilities?
+- Vision disabilities?
+- Hearing disabilities?
+- Developmental disabilities?
+
+Could we implement a way for a user to import a custom avatar?
+- Age appropriate
+- Safe for work
