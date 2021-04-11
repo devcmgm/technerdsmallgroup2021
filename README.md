@@ -92,3 +92,19 @@ More TBD ...
   <li>non-fungible tokens or NFTs -- <a href="https://www.youtube.com/watch?v=X_AugmQpwho&t=97s">What are NFTs Video</a></li>     
   <li>DotNet Cross-platform Development Linux, MacOS and Windows -- <a href="https://dotnet.microsoft.com/">Getting Started</a>   </li>  
   </ul>
+  
+  <h1>Week 5 and Week 6 March 21 and 28</h1>
+  <h2>Did not meet Holy Week</h2>
+  <h1>Week 6</h1>
+  <h2>Discuss how to make game Accessible to differently Able Gamers</h2>
+  <h3>What can we do to make our game accessible to children with disabilities?</h3>
+  <ul>
+  <li>Motor disabilities?</li>
+  <li>- Vision disabilities?</li>
+  <li>Hearing disabilities?</li>
+   <li>Developmental disabilities?</li>
+
+<h3>Could we implement a way for a user to import a custom avatar?</h3>
+  <ul><li>Age appropriate</li>
+  <li>Safe for work</li>
+</ul
