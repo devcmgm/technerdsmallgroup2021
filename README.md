@@ -93,9 +93,9 @@ More TBD ...
   <li>DotNet Cross-platform Development Linux, MacOS and Windows -- <a href="https://dotnet.microsoft.com/">Getting Started</a>   </li>  
   </ul>
   
-  <h1>Week 5 and Week 6 March 21 , 28, Apr 4th</h1>
+  <h1>Week 5,6 and 7th -  March 21 , 28, Apr 4th</h1>
   <h2>Did not meet team out ... and Holy Week</h2>
-  <h1>Week 6 - April 11</h1>
+  <h1>Week 8 - April 11</h1>
   <h2>Discuss how to make game Accessible to differently Able Gamers</h2>
   <h3>What can we do to make our game accessible to children with disabilities?</h3>
   <ul>
