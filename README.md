@@ -96,7 +96,7 @@ More TBD ...
   <h1>Week 5,6 and 7th -  March 21 , 28, Apr 4th</h1>
   <h2>Did not meet team out ... and Holy Week</h2>
   <h1>Week 8 - April 11</h1>
-  <h2>Discuss how to make game Accessible to differently Able Gamers</h2>
+  <h2>Discussed how to make game Accessible to differently Able Gamers</h2>
   <h3>What can we do to make our game accessible to children with disabilities?</h3>
   <ul>
   <li>Motor disabilities?</li>
